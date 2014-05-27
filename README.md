@@ -6,5 +6,4 @@ various programming languages.
 
 To run the examples you will need your own API-Key.
 
-Visit http://orbitapi.com for how to get one as well as more in-depth
-documentation!
+Visit http://orbit.ai for how to get your own API-key and http://orbit.ai/documentation for more in-depth documentation!
