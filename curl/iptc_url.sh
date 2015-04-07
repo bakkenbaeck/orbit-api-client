@@ -1,7 +1,7 @@
 #!/bin/bash
 
 if [ -z $1 ] ; then
-   echo "Usage: info <orbit-api-key>"
+   echo "Usage: iptc_url.sh <orbit-api-key>"
    exit 1
 fi
 
