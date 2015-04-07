@@ -19,7 +19,7 @@ except:
 
 
 if len(sys.argv)<2:
-    print "Usage: iptc.py <api-key>"
+    print "Usage: lang.py <api-key>"
     sys.exit(1)
 
 api_key = sys.argv[1]
