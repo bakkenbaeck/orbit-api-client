@@ -18,7 +18,7 @@ except:
 
 
 if len(sys.argv)<2:
-    print "Usage: smalltext.py <api-key>"
+    print "Usage: shorttext.py <api-key>"
     sys.exit(1)
 
 api_key = sys.argv[1]
